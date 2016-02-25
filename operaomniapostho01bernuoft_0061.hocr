@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniapostho01bernuoft_0061.png"; bbox 0 0 2565 3952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 586 1023 1647 1122">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 586 1023 1647 1122">
+     <span class='ocr_line' id='line_1_1' title="bbox 586 1023 1647 1122; baseline -0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 586 1023 999 1120; x_wconf 75' lang='lat' dir='ltr'>SANCTI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1048 1027 1647 1122; x_wconf 79' lang='lat' dir='ltr'>BERNARDI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 709 1253 1504 1294">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 709 1253 1504 1294">
+     <span class='ocr_line' id='line_1_2' title="bbox 709 1253 1504 1294; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 709 1253 930 1292; x_wconf 81' lang='lat' dir='ltr'>ABBATIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 980 1253 1504 1294; x_wconf 69' lang='lat' dir='ltr'>CLARAE-VALLENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 247 1434 1969 1546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 247 1434 1969 1546">
+     <span class='ocr_line' id='line_1_3' title="bbox 247 1434 1969 1546; baseline 0.003 -22"><span class='ocrx_word' id='word_1_5' title='bbox 247 1434 770 1526; x_wconf 82' lang='lat' dir='ltr'>OPERUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 893 1435 1323 1527; x_wconf 85' lang='lat' dir='ltr'>TOMUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1439 1438 1969 1546; x_wconf 78' lang='lat' dir='ltr'>PRIMUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 492 1675 1735 2025">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 492 1675 1735 2025">
+     <span class='ocr_line' id='line_1_4' title="bbox 492 1675 1735 2025; baseline 0.005 -176"><span class='ocrx_word' id='word_1_8' title='bbox 492 1675 1735 2025; x_wconf 82' lang='lat' dir='ltr'>EPISTOLAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 717 1998 1511 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 717 1998 1511 2052">
+     <span class='ocr_line' id='line_1_5' title="bbox 717 1998 1511 2052; baseline -0.003 -1"><span class='ocrx_word' id='word_1_9' title='bbox 717 1998 1511 2052; x_wconf 45' lang='lat' dir='ltr'>CCCCCCCCCCCCCCCC</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 938 2160 1281 2185">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 938 2160 1281 2185">
+     <span class='ocr_line' id='line_1_6' title="bbox 938 2160 1281 2185; baseline -0.003 -1"><span class='ocrx_word' id='word_1_10' title='bbox 938 2160 1281 2185; x_wconf 62' lang='lat' dir='ltr'>‹LOMPLECTENs</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
